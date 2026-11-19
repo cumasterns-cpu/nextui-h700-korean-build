@@ -1,0 +1,6 @@
+Builder mode: upload-and-commit automatic trigger
+Build trigger: push to main (manual workflow_dispatch also remains enabled)
+Output: GitHub Releases entry, not an Actions artifact download
+Source: LoveRetro/NextUI PR #735 merge ref
+Target: h700
+Hardware validation: not yet performed on RG35XX Pro
